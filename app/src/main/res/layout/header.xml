@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"
+        android:padding="5dp"
+        android:text="Location"
+        android:textColor="#000000"
+        android:textStyle="bold"
+      />
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:padding="5dp"
+        android:text="Confirmed"
+        android:textStyle="bold"
+        android:textColor="#FF0000"
+        />
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:padding="5dp"
+        android:text="Recovered"
+        android:textStyle="bold"
+        android:textColor="@color/dark_green"
+        />
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:padding="5dp"
+        android:text="Deaths"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        />
+
+</LinearLayout>
