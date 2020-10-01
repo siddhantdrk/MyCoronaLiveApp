@@ -1,5 +1,5 @@
 # MyCoronaLiveApp
-Gives updates on Corona
+A simple java Application which updates you with the live number of covid cases<br/>
 
-Showing Live data of covid-19 by fetching data from https://api.covid19india.org/data.json 
-
+# API used:-
+https://api.covid19india.org/data.json 
